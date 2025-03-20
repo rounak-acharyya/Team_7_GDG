@@ -1,4 +1,4 @@
-Project Title : Create software using AI and ML that helps clear traffic for ambulances and other emergency vehicles by analyzing live traffic data, predicting jams, and giving suggestions to traffic authorities for quick and efficient route management.
+![WhatsApp Image 2025-03-19 at 22 34 03_e755a24a](https://github.com/user-attachments/assets/cfab2120-781f-41bd-a1fd-5f7d64d58de6)Project Title : Create software using AI and ML that helps clear traffic for ambulances and other emergency vehicles by analyzing live traffic data, predicting jams, and giving suggestions to traffic authorities for quick and efficient route management.
 
 AI/ML & Data Analytics Team - Team 7
 
@@ -28,4 +28,14 @@ Dataset: https://drive.google.com/file/d/1I5-g3CwnxFc0TAFHvXtAtKYArOAN-I2a/view
 
 Architectural diagram:
 
+![WhatsApp Image 2025-03-19 at 22 34 03_e755a24a](https://github.com/user-attachments/assets/5a43e291-8eea-4fd1-9daa-ec3f2e2b8e17)
+
+
 References:
+
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+
+- NYC Open Data Traffic Dataset: [Link](https://opendata.cityofnewyork.us/)
+
+-  **GeoPandas Documentation** – Official documentation for GeoPandas, covering geospatial data handling and visualization.  
+  [GeoPandas Docs](https://geopandas.org/en/stable/)  
