@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-03-19 at 22 34 03_e755a24a](https://github.com/user-attachments/assets/cfab2120-781f-41bd-a1fd-5f7d64d58de6)Project Title : Create software using AI and ML that helps clear traffic for ambulances and other emergency vehicles by analyzing live traffic data, predicting jams, and giving suggestions to traffic authorities for quick and efficient route management.
+Project Title : Create software using AI and ML that helps clear traffic for ambulances and other emergency vehicles by analyzing live traffic data, predicting jams, and giving suggestions to traffic authorities for quick and efficient route management.
 
 AI/ML & Data Analytics Team - Team 7
 
